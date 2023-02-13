@@ -4,7 +4,8 @@
 
 <b>2. Action Elements</b>
 
-  <jsp:useBean/>
-  <jsp:setProperty/>
-  
+<ul>
+  <li>jsp:useBean</li>
+  <li>jsp:setProperty</li>
+ </ul>
 <b>3. JSTL Tags</b>
