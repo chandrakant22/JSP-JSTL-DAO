@@ -9,3 +9,8 @@
   <li>jsp:setProperty</li>
  </ul>
 <b>3. JSTL Tags</b>
+
+<ul>
+  <li>Core Tag</li>
+  
+ </ul>
